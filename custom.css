@@ -1,0 +1,17 @@
+
+.container{
+    height: 400px;
+    background-color:white;
+    border: 1px  grey;
+}
+.col{
+    border: 1px;
+}
+.topSpace{
+    margin-top: 75px;
+}
+.container-resposiveimage{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
